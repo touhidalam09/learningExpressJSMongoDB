@@ -15,6 +15,10 @@
     ```
     npm install lodesh
     ```
+ - ### ejs :
+    ```
+    npm install ejs
+    ```
 ## Branch Details
   - ### `main :`
     - Initialize setup Express JS
